@@ -1,0 +1,17 @@
+.row, .col-xs-4 {
+  border: 2px solid black;
+
+}
+.row {
+
+  display: block;
+  margin: auto;
+}
+.col-xs-4{
+  height: 100px;
+
+}
+
+.container{
+  margin-top: 100px;
+}
